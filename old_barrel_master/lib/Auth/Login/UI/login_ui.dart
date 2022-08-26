@@ -56,9 +56,7 @@ class _LoginUIState extends State<LoginUI> {
               children: [
                 Column(
                   children: [
-                    SizedBox(
-                      height: 40,
-                    ),
+                    SizedBox(height: 40),
                     Image.asset(
                       Assets.logo,
                       height: 130,
