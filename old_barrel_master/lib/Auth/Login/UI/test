@@ -1,0 +1,3 @@
+Expanded(
+                                  child: socialButton(
+                                      Assets.googleIcon, locale.google!))

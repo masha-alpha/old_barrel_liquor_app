@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117824705681",
+    "project_id": "old-barrel-app",
+    "storage_bucket": "old-barrel-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117824705681:android:93ec43aa7a6b70a0b4db30",
+        "android_client_info": {
+          "package_name": "com.flutter.old_barrel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117824705681-kvh82eas1pg9tm490jfiijiuq628d0nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjeMLXEAZ_F5Y-PnoeOlUXRWtPf9G_K4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117824705681-kvh82eas1pg9tm490jfiijiuq628d0nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+class Assets {
+  static const String signIn = 'assets/img_signin.png';
+  static const String logo = 'assets/logo.png';
+  static const String fbIcon = 'assets/icons/ic_fb.png';
+  static const String googleIcon = 'assets/icons/ic_google.png';
+  static const String banner1 = 'assets/banners/banner1.png';
+  static const String banner2 = 'assets/banners/banner2.png';
+  static const String liquor1 = 'assets/liquors/category_beer.png';
+  static const String liquor2 = 'assets/liquors/category_wine.png';
+  static const String liquor3 = 'assets/liquors/category_vodka.png';
+  static const String liquor4 = 'assets/liquors/category_brandy.png';
+  static const String liquor5 = 'assets/liquors/category_rum.png';
+  static const String liquor6 = 'assets/liquors/category_tequila.png';
+  static const String liquor7 = 'assets/liquors/category_whiskey.png';
+  static const String liquor8 = 'assets/liquors/category_more.png';
+  static const String brand1 = 'assets/brands/Layer 2348.png';
+  static const String brand2 = 'assets/brands/Layer 2349.png';
+  static const String brand3 = 'assets/brands/Layer 2350.png';
+  static const String brand4 = 'assets/brands/Layer 2351.png';
+  static const String footer11 = 'assets/footer menu/ic_home.png';
+  static const String footer12 = 'assets/footer menu/ic_homeact.png';
+  static const String footer21 = 'assets/footer menu/ic_my orders.png';
+  static const String footer22 = 'assets/footer menu/ic_my ordersact.png';
+  static const String footer31 = 'assets/footer menu/ic_account.png';
+  static const String footer32 = 'assets/footer menu/ic_accountact.png';
+  static const String searchPageImage = 'assets/img_search.png';
+  static const String filterIcon = 'assets/icons/ic_filters.png';
+  static const String beer1 = 'assets/beers/beer1.png';
+  static const String beer2 = 'assets/beers/beer2.png';
+  static const String beer3 = 'assets/beers/beer3.png';
+  static const String beer4 = 'assets/beers/beer4.png';
+  static const String beer5 = 'assets/beers/beer5.png';
+  static const String beer6 = 'assets/beers/beer6.png';
+  static const String beer7 = 'assets/beers/whiskey1.png';
+  static const String beer1Shadow = 'assets/beers/beer1 - shadow.png';
+  static const String locationIcon = 'assets/icons/ic_location.png';
+  static const String promoIcon = 'assets/icons/ic_promocode.png';
+  static const String paymentGateway =
+      'assets/payments/payment_paymegateway.png';
+  static const String cashOnDelivery = 'assets/payments/payment_cod.png';
+  static const String card1 = 'assets/cards/card1.png';
+  static const String card2 = 'assets/cards/card2.png';
+  static const String quoteImage = 'assets/payment done/quote.png';
+  static const String orderPlaced = 'assets/payment done/im_orderplaced.png';
+  static const String myProfile = 'assets/myprofile.png';
+  static const String map = 'assets/map.png';
+}
